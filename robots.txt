@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salempestcontrolco.com/sitemap.xml
